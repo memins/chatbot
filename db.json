@@ -1,0 +1,20 @@
+{
+  "drugs": [
+    {
+      "id": "BLU",
+      "title": "Bluspiran Plus",
+      "manufacturer": "Blue Health Group",
+      "description": "Bluspiran Plus instantly helps by making you feel amazing.",
+
+      "duration": "LONG"
+    },
+    {
+      "id": "WAI",
+      "title": "Just Wait",
+      "manufacturer": "You",
+      "description": "Sometimes, waiting is just the best option. Give it some time!",
+
+      "duration": "SHORT"
+    }
+  ]
+}
